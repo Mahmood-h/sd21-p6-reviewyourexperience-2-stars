@@ -29,6 +29,7 @@ switch ($params[1]) {
         break;
 
     case 'category':
+        echo "hoi";
         include_once "../Templates/home.php";
         break;
 
